@@ -3,7 +3,7 @@
 Packaged app test case for `<iframe mozbrowser>` frame communication.
 
 
-# Installation
+## Installation
 
 1. Download https://github.com/cvan/mozbrowser-frame-communication-test/archive/master.zip
 2. From Firefox, open the WebIDE: `Tools` > `Web Developer` > `WebIDE`
